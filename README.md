@@ -37,7 +37,7 @@ A real-time app focused on audio/video call features (TypeScript powered!).
 ### 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/srikar-kanduri/) *(replace with your actual link)*
-- 🧰 [My Portfolio](https://your-portfolio.com) *(optional)*
+- 🧰 [My Portfolio](https://sriworld-portfolio.netlify.app/) *(optional)*
 - 📧 Email: sri11321@gmail.com *(optional)*
 
 ---
