@@ -7,7 +7,7 @@ I'm a passionate **Mobile App Developer** with strong expertise in **React Nativ
 ### 🚀 About Me
 
 - 🔧 Currently building: Offline Face Recognition package using **TensorFlow.js + React Native CLI**
-- 🎯 Skilled in: React Native, Node.js, Angular, .NET, TypeScript
+- 🎯 Skilled in: React Native, Node.js, Angular, .NET, TypeScript , Tensorflow 
 - 🧠 Always learning: Machine Learning, DevOps, Advanced Native Modules
 - 🧪 Tech Explorer: I love prototyping tools, automating workflows, and building reusable components
 - 🎬 Exploring: Video editing with **Final Cut Pro**
